@@ -1,3 +1,7 @@
+<p align="center">
+<img align="center" width="50%" src="preview.png">
+</p>
+
 # SmartRockets  
 Simple example of the genetic alghorithm, written using Python 3.5 and PyGame. Based on [Daniel Shiffman's coding challenge](https://www.youtube.com/watch?v=bGz7mv2vD6g) which is based on [Jer Thorp's Smart Rockets](http://www.blprnt.com/smartrockets/).
   
